@@ -188,6 +188,21 @@ Power BI Dashboard Development
 Business Insights & Recommendations
 
 ---
+# 📊 Power BI Dashboard
+
+## 🚚 Delivery Analysis Dashboard
+
+![Delivery Analysis](screenshots/delivery-analysis-dashboard.png)
+
+## 📦 Stock Analysis Dashboard
+
+![Stock Analysis](screenshots/stock-analysis-dashboard.png)
+
+## 💰 Profit Analysis Dashboard
+
+![Profit Analysis](screenshots/profit-analysis-dashboard.png)
+
+---
 
 # 📁 Repository Structure
 
